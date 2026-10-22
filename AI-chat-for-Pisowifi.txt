@@ -1,3 +1,0 @@
-PAGE_ACCESS_TOKEN=EAAxxxxx imong gi-copy
-VERIFY_TOKEN=loys_verify_2024
-PORT=3000
