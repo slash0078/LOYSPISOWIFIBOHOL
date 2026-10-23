@@ -1,0 +1,3 @@
+pip install openai python-dotenv
+# Add to .env: OPENAI_API_KEY=sk-...
+python openai_train.py
